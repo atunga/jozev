@@ -34,3 +34,10 @@ Brand colors carried over from the current site: purple `#BD1EF7`, orange `#F359
 - Product, warehouse, staff and lifestyle imagery and the four motion loops were AI-generated with Higgsfield for illustration only. Generated products are unbranded.
 - The customer-service and warehouse "staff" are placeholders. Replace them with real team photography before production.
 - All links, the login and the catalog download are non-functional placeholders.
+
+## Source assets
+
+`source-assets/` holds the full-resolution originals behind the web-optimized files in `mockup/assets/`:
+
+- `images-fullres/`: the 14 Higgsfield-generated images as lossless PNGs (about 2K). The site uses compressed WebP copies.
+- `videos-raw/`: the four original 1080p Seedance clips, about 8 seconds each. The site uses 1600px, 7-second seamless-loop H.264 encodes made from these.

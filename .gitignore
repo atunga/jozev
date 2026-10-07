@@ -1,6 +1,7 @@
-# Track only the Jozev mockup deliverable
+# Track only the Jozev mockup deliverable and its source assets
 /*
 !/mockup/
+!/source-assets/
 !/README.md
 !/.gitignore
 !/Present Jozev Mockup.command
