@@ -9,6 +9,10 @@ A dark, premium, motion-driven homepage concept for [Jozev Products](https://www
 
 The page loads GSAP, Lenis and Three.js from CDNs, so it needs an internet connection.
 
+## Deploy
+
+The site lives in `mockup/`. On Vercel, `vercel.json` rewrites the root URL and `/assets/*` to that folder, so the repo deploys as-is with no build step. On other static hosts, set the publish directory to `mockup`.
+
 ## What's inside
 
 | Section | Highlights |

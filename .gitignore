@@ -3,6 +3,7 @@
 !/mockup/
 !/source-assets/
 !/README.md
+!/vercel.json
 !/.gitignore
 !/Present Jozev Mockup.command
 .DS_Store
