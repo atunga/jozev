@@ -1,0 +1,7 @@
+# Track only the Jozev mockup deliverable
+/*
+!/mockup/
+!/README.md
+!/.gitignore
+!/Present Jozev Mockup.command
+.DS_Store
